@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dhyey
 
-### 🤖 AI / Machine Learning Engineer
+### 🤖 AI Engineer
 
 I'm a Computer Science student focused on **Machine Learning, AI Engineering, Data Science, DSA, and System Design**.
 
